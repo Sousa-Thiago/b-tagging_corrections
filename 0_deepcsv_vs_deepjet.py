@@ -1,11 +1,3 @@
-#Importar classes em diferentes diretórios
-
-import sys
-sys.path.append('/thiagosousa@analysis.acad.hepgrid/home/thiagosousa/IC_Helena/IC_Dark_Matter/hhdmAnalysis-IC/hhdm_analysis')
-#sys.path.append('/thiagosousa@analysis.acad.hepgrid/home/thiagosousa') 
-#sys.path.append('/home/thiagosousa/ANATools')
-
-
 import anatools.data as data
 
 import pprint
